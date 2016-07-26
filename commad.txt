@@ -1,0 +1,1 @@
+wkhtmltopdf "C:/Users/Magdiel Marquez/Documents/cv/es.html"  "C:/Users/Magdiel Marquez/Documents/cv/dist/es.pdf"
