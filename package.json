@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/magdielikari/cv#readme",
   "dependencies": {
+    "flexboxgrid": "^6.3.0",
     "phantom": "^2.1.12"
   },
   "devDependencies": {
