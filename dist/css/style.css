@@ -32,7 +32,7 @@
     -webkit-linear-gradient(-45deg, black 25%, transparent 25%, transparent 75%, black 75%, black);
    background-size:60px 60px;}
 .ic-sm{
-  max-width: 2em;
+  max-width: 1.5em;
 }
 .ic-md{
   max-width: 5em;
