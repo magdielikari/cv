@@ -17,7 +17,7 @@ var data = {
         },
         {
             label: "My Second dataset",
-            tension: .6,
+            tension: 0.6,
             backgroundColor: "rgba(255,99,132,0.2)",
             borderColor: "rgba(255,99,132,1)",
             pointBackgroundColor: "rgba(255,99,132,1)",

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Yesod_Logo.svg">
+  <defs
+     id="defs4">
+    <mask
+       id="maskOfY"
+       maskUnits="userSpaceOnUse">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="pathForMaskOfY"
+         d="m 272.79339,420.69077 -56.85088,0.0638 84.84198,127.37553 -84.84198,127.53644 55.1135,0 170.07004,-254.91197 -54.18046,0 -56.27176,84.64889 z"
+         style="fill:#96abc9;fill-opacity:1;stroke:none" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-57.244107"
+     inkscape:cy="124.26301"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36216)">
+    <g
+       transform="matrix(0.26813194,0,0,0.36852035,-81.06796,776.884)"
+       id="logoLayer"
+       inkscape:label="Logo Layer">
+      <g
+         transform="translate(168.82164,20.203051)"
+         id="logo">
+        <g
+           id="darkBluePieces">
+          <path
+             sodipodi:nodetypes="ccccccc"
+             inkscape:connector-curvature="0"
+             id="greaterThanSymbol"
+             d="m 135.14111,420.78405 84.82311,127.41091 -84.96666,127.39161 55.14166,0.0484 L 275.1099,548.195 190.07487,420.7229 Z"
+             style="fill:#29374e;fill-opacity:1;stroke:none" />
+          <g
+             id="stackPieces">
+            <path
+               style="fill:#29374e;fill-opacity:1;stroke:none"
+               d="m 408.98455,507.49534 -28.24848,42.43703 112.02873,0 28.24849,-42.43703 z"
+               id="topOfStack"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               inkscape:connector-curvature="0"
+               id="middleOfStack"
+               d="m 367.09443,570.33048 -28.21631,42.37278 194.93506,0 28.21631,-42.37278 z"
+               style="fill:#29374e;fill-opacity:1;stroke:none" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               inkscape:connector-curvature="0"
+               id="bottomOfStack"
+               d="m 603.72134,633.26218 -278.54921,0 -28.28066,42.43708 278.51704,0 z"
+               style="fill:#29374e;fill-opacity:1;stroke:none" />
+          </g>
+        </g>
+        <g
+           id="lightBlueY">
+          <path
+             style="fill:#96abc9;fill-opacity:1;stroke:none"
+             d="m 272.79339,420.69077 -56.85088,0.0638 84.84198,127.37553 -84.84198,127.53644 55.1135,0 170.07004,-254.91197 -54.18046,0 -56.27176,84.64889 z"
+             id="theY"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

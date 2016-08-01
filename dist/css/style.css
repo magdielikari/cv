@@ -1,3 +1,4 @@
+.bd{ background-image: url(../../dev/img/24a6e607.png); background-repeat: repeat; }
 .honey {background:
     -webkit-radial-gradient(circle farthest-side at 0% 50%,#fb1 23.5%,rgba(240,166,17,0) 0)21px 30px,
     -webkit-radial-gradient(circle farthest-side at 0% 50%,#B71 24%,rgba(240,166,17,0) 0)19px 30px,
@@ -32,11 +33,37 @@
     -webkit-linear-gradient(-45deg, black 25%, transparent 25%, transparent 75%, black 75%, black);
    background-size:60px 60px;}
 .ic-sm{
-  max-width: 1.5em;
+  max-width: 1.7em;
 }
-.ic-md{
-  max-width: 5em;
+@media print {
+  .item {
+    -webkit-filter: drop-shadow(4px 4px 1px #ccc);
+    text-shadow: 4px 4px 1px #ccc;
+  }
 }
-.ic-lg{
-  max-width: 7em;
+.white{
+   background-color:white;
+}
+h1{
+   font-family: 'Lobster', cursive;
+}
+.w{
+   color: white;   
+}  
+h3{
+   font-family: 'Indie Flower', cursive;
+}
+
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#fig {
+  width: 257px;
+  height: 139px;
+}
+
+.img {
+    border-radius: 50%;
 }
