@@ -35,6 +35,9 @@
 .ic-sm{
   max-width: 1.7em;
 }
+.ic-lg{
+  max-width: 10em;
+}
 @media print {
   .item {
     -webkit-filter: drop-shadow(4px 4px 1px #ccc);
