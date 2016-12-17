@@ -1,8 +1,8 @@
 var ctx = document.getElementById("myChart").getContext("2d");
+var ctx1 = document.getElementById("myChart1").getContext("2d");
 
 var data = {
-    labels: ["Eating", 'hjkl',
-     "Sleeping", "Designing", "Coding", "Cycling", "Running"],
+    labels: ["Eating", "hjkl", "Sleeping", "Designing", "Coding", "Cycling", "Running"],
     datasets: [
         {
             label: "My First dataset",
@@ -30,6 +30,11 @@ var data = {
 };
 
 var myRadarChart = new Chart(ctx, {
+    type: 'radar',
+    data: data,
+});
+
+var myRadarChart = new Chart(ctx1, {
     type: 'radar',
     data: data,
 });
